@@ -2,7 +2,7 @@
 
 A game made using Pygame for ISS Assignment - 3 in Spring'20 semester, IIIT Hyderabad.
 
-Game is based on Pepe the from crossing a grid filled with obstacles.
+Game is based on Pepe the frog crossing a grid filled with obstacles.
 
 Run command:
 
